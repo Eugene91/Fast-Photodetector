@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name PD)(type Legacy)(uri ${KIPRJMOD}/PD.lib)(options "")(descr ""))
+  (lib (name HighSpeedPD-rescue)(type Legacy)(uri ${KIPRJMOD}/HighSpeedPD-rescue.lib)(options "")(descr ""))
+)
